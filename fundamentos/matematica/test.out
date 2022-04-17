@@ -1,0 +1,4 @@
+testing: warning: no tests to run
+PASS
+coverage: 0.0% of statements
+ok  	matematica	0.192s	coverage: 0.0% of statements [no tests to run]
